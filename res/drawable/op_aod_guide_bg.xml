@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="@color/oneplus_theme_custom_background" />
+    </item>
+    <item android:height="649.0px" android:drawable="@drawable/op_bitmoji_bggradient" />
+</layer-list>
