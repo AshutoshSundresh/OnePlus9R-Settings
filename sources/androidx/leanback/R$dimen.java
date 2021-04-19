@@ -1,0 +1,47 @@
+package androidx.leanback;
+
+public final class R$dimen {
+    public static final int lb_browse_header_select_duration = 2131165630;
+    public static final int lb_browse_header_select_scale = 2131165631;
+    public static final int lb_browse_rows_margin_start = 2131165646;
+    public static final int lb_browse_rows_margin_top = 2131165647;
+    public static final int lb_details_overview_actions_fade_size = 2131165675;
+    public static final int lb_details_rows_align_top = 2131165691;
+    public static final int lb_details_v2_actions_height = 2131165692;
+    public static final int lb_details_v2_blank_height = 2131165695;
+    public static final int lb_details_v2_description_margin_top = 2131165699;
+    public static final int lb_details_v2_left = 2131165700;
+    public static final int lb_details_v2_logo_margin_start = 2131165701;
+    public static final int lb_error_under_image_baseline_margin = 2131165707;
+    public static final int lb_error_under_message_baseline_margin = 2131165708;
+    public static final int lb_guidedactions_item_disabled_description_text_alpha = 2131165715;
+    public static final int lb_guidedactions_item_disabled_text_alpha = 2131165716;
+    public static final int lb_guidedactions_item_unselected_description_text_alpha = 2131165727;
+    public static final int lb_guidedactions_item_unselected_text_alpha = 2131165728;
+    public static final int lb_material_shadow_focused_z = 2131165746;
+    public static final int lb_material_shadow_normal_z = 2131165747;
+    public static final int lb_page_indicator_arrow_gap = 2131165757;
+    public static final int lb_page_indicator_arrow_radius = 2131165758;
+    public static final int lb_page_indicator_arrow_shadow_offset = 2131165759;
+    public static final int lb_page_indicator_arrow_shadow_radius = 2131165760;
+    public static final int lb_page_indicator_dot_gap = 2131165761;
+    public static final int lb_page_indicator_dot_radius = 2131165762;
+    public static final int lb_playback_controls_padding_bottom = 2131165770;
+    public static final int lb_playback_major_fade_translate_y = 2131165777;
+    public static final int lb_playback_minor_fade_translate_y = 2131165785;
+    public static final int lb_playback_other_rows_center_to_bottom = 2131165792;
+    public static final int lb_playback_transport_hero_thumbs_height = 2131165799;
+    public static final int lb_playback_transport_hero_thumbs_width = 2131165800;
+    public static final int lb_playback_transport_progressbar_active_bar_height = 2131165803;
+    public static final int lb_playback_transport_progressbar_active_radius = 2131165804;
+    public static final int lb_playback_transport_progressbar_bar_height = 2131165805;
+    public static final int lb_playback_transport_thumbs_height = 2131165808;
+    public static final int lb_playback_transport_thumbs_margin = 2131165809;
+    public static final int lb_playback_transport_thumbs_width = 2131165810;
+    public static final int lb_rounded_rect_corner_radius = 2131165813;
+    public static final int lb_search_bar_height = 2131165815;
+    public static final int lb_search_browse_rows_align_top = 2131165833;
+    public static final int lb_search_orb_focused_z = 2131165834;
+    public static final int lb_search_orb_unfocused_z = 2131165840;
+    public static final int picker_item_height = 2131166620;
+}

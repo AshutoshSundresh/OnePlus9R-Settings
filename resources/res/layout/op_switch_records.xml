@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.oneplus.settings.edgeeffect.SpringRelativeLayout android:id="@+id/spring_layout" android:focusable="true" android:focusableInTouchMode="true" android:saveEnabled="false" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/record_list" android:scrollbars="none" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" settings:fastScrollEnabled="true" settings:fastScrollHorizontalThumbDrawable="@drawable/thumb_drawable" settings:fastScrollHorizontalTrackDrawable="@drawable/line_drawable" settings:fastScrollVerticalThumbDrawable="@drawable/thumb_drawable" settings:fastScrollVerticalTrackDrawable="@drawable/line_drawable"/>
+    </com.oneplus.settings.edgeeffect.SpringRelativeLayout>
+    <com.google.android.material.emptyview.EmptyPageView android:gravity="center" android:layout_gravity="center" android:id="@android:id/empty" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/op_switch_record_none"/>
+</FrameLayout>

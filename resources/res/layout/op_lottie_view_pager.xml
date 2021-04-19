@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:paddingBottom="26dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.oneplus.settings.ui.OPAutoWrapperViewPager android:layout_gravity="center" android:id="@+id/anim_viewpager" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.google.android.material.indicator.PageIndicator android:orientation="horizontal" android:id="@+id/page_indicator" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

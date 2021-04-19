@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/op_smart_side_bar_title">
+    <androidx.preference.PreferenceCategory android:title="@string/oneplus_instrucitons">
+        <com.oneplus.settings.ui.OPLottieViewPagerPreference android:selectable="false" android:key="lottie_view_pager_preference"/>
+    </androidx.preference.PreferenceCategory>
+    <SwitchPreference android:title="@string/op_smart_side_bar_title" android:key="side_bar_switch"/>
+    <com.oneplus.settings.ui.OPSideBarSeekBarPreference android:selectable="false" android:key="side_bar_transparent_seekbar"/>
+    <SwitchPreference android:title="@string/op_smart_side_bar_fullscreen_gone_title" android:key="side_bar_fullscreen_gone_switch" android:summary="@string/op_smart_side_bar_fullscreen_gone_summary"/>
+</PreferenceScreen>

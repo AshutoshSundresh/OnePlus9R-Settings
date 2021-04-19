@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/op_theme_clock_preview_title">
+    <com.oneplus.settings.ui.OPCustomClockPreference android:selectable="false" android:key="op_custom_clock_preference"/>
+</PreferenceScreen>
